@@ -1,4 +1,0 @@
-2026-08-19 | Health | 2000 | Gym membership
-2026-08-19 | Education | 6000 | Evening coching
-2026-08-19 | Tech | 9000 | Laptop
-2026-08-19 | Education | 4000 | Python Course2026-08-19 | education | 2000 | 

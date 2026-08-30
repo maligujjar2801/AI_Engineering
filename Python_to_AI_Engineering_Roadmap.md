@@ -53,13 +53,11 @@ That's the part many beginners completely ignore.
 
 ---
 
-# 🧭 First: where you actually are RIGHT NOW
 
-Based on your repository and our previous Python Journey work:
+### 🟢 Start by building the Python foundation
 
-### ✅ You've already covered the Python foundation
+You should work through things like:
 
-You've worked through things like:
 
 - Variables
 - Data types
@@ -84,11 +82,11 @@ You've worked through things like:
 - `__call__`
 - etc.
 
-And you've done this through a **day-by-day learning system**, with notes, exercises, projects and GitHub documentation.
+Build your learning through a **day-by-day learning system**, with notes, exercises, projects and GitHub documentation.
 
-That's good.
+That's a good foundation.
 
-Your repository itself follows that philosophy: write code yourself, understand concepts instead of memorizing them, build projects, learn from mistakes, and improve consistently. ([GitHub](https://github.com/maligujjar2801/python_journey "GitHub - maligujjar2801/python_journey: It shares all my steps and expeiriences in learning python programming. · GitHub"))
+Your repository should follow that philosophy: write code yourself, understand concepts instead of memorizing them, build projects, learn from mistakes, and improve consistently. ([GitHub](https://github.com/maligujjar2801/python_journey "GitHub - maligujjar2801/python_journey: It shares all my steps and expeiriences in learning python programming. · GitHub"))
 
 ### 🟡 But Python isn't completely "finished"
 
@@ -108,14 +106,29 @@ That's where we're going next.
 
 Your next chapter should still be:
 
-# Day 16 → File Handling
+# Day 1 → Python Foundations
 
 Then:
 
 ### Python Engineering Track
 
 ```
-Day 16  File Handling
+Day 1   Python Foundations
+Day 2   Variables, Data Types & Operators
+Day 3   Decision Making in Python
+Day 4   Loops in Python
+Day 5   Functions in Python
+Day 6   Lists in Python
+Day 7   Classes & Objects in Python
+Day 8   Advanced OOP in Python
+Day 9   Build a Budget App (OOP Project)
+Day 10  Inheritance in Python
+Day 11  Encapsulation in Python
+Day 12  Salary Tracker Workshop (OOP + Validation)
+Day 13  Dunder (Magic) Methods in Python
+Day 14  Polymorphism in Python
+Day 15  Game Character Stats Tracker (OOP Project)
+Day 16  File Handling in Python
 Day 17  Exception Handling
 Day 18  Advanced Functions
 Day 19  Iterators & Generators
@@ -1404,7 +1417,7 @@ Here's the high-level schedule I'd actually put you on.
 ### Python Engineering
 
 ```
-File Handling
+Python Foundations
 Exception Handling
 Advanced Python
 Generators
@@ -1830,7 +1843,7 @@ You're not supposed to.
 
 Your next step is:
 
-# **DAY 16 — FILE HANDLING**
+## **DAY 1 — PYTHON FOUNDATIONS**
 
 Then we'll finish the Python engineering layer.
 
@@ -1840,7 +1853,7 @@ After that:
 
 That is the road I'd put you on.
 
-And importantly, **we don't need to abandon your existing Python Journey format to do it**. We can continue it from Day 16 and progressively turn the repository from a beginner learning journal into evidence of professional engineering ability.
+And importantly, **we don't need to abandon your existing Python Journey format to do it**. We can build it from Day 1 and progressively turn the repository from a beginner learning journal into evidence of professional engineering ability.
 
 [Microsoft's AI Engineer learning path](https://learn.microsoft.com/en-us/training/career-paths/ai-engineer?utm_source=chatgpt.com) is also a useful reality check for the destination: Microsoft itself describes AI engineering as a combination of software development, programming, data/ML and building/deploying AI applications. ([Microsoft Learn](https://learn.microsoft.com/en-us/training/career-paths/ai-engineer?utm_source=chatgpt.com "Training for AI engineers | Microsoft Learn"))
 
@@ -1848,4 +1861,4 @@ And importantly, **we don't need to abandon your existing Python Journey format 
 
 > **Don't chase AI yet. Become extremely solid at Python first. Then build the CS foundation that makes AI engineering possible.**
 
-You're at **Day 16**, not at the beginning. And from here, the roadmap gets much more interesting.
+You're at **Day 1**, and from here the roadmap gets much more interesting.

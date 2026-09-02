@@ -102,9 +102,9 @@ That's where we're going next.
 
 # PHASE 1 — FINISH PYTHON PROPERLY
 
-### Estimated time: \~4–6 weeks
+### Estimated time: \~8–10 weeks
 
-Your next chapter should still be:
+Your next chapter should be:
 
 # Day 1 → Python Foundations
 
@@ -160,9 +160,9 @@ Not every one needs to be an entire day if you master something faster.
 
 ---
 
-# 🔥 But here's the important change
+# 🔥 Your Learning Approach :
 
-From now on, your learning shouldn't look like:
+Your learning days would'nt look like ,
 
 > Learn concept → solve 5 tiny questions → move on.
 
@@ -193,9 +193,6 @@ GITHUB
 
 ```
 
-That's already close to the learning style you've developed.
-
-**Keep it.**
 
 It is one of the strongest parts of your Python Journey.
 
@@ -1861,4 +1858,3 @@ And importantly, **we don't need to abandon your existing Python Journey format 
 
 > **Don't chase AI yet. Become extremely solid at Python first. Then build the CS foundation that makes AI engineering possible.**
 
-You're at **Day 1**, and from here the roadmap gets much more interesting.

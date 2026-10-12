@@ -135,28 +135,30 @@ Day 19  Iterators & Generators
 Day 20  Decorators
 Day 21  Context Managers
 Day 22  Comprehensions + advanced Python patterns
-Day 23  `*args` / `**kwargs` deep dive
-Day 24  Python modules & packages
-Day 25  Virtual environments + pip
-Day 26  Project structure
-Day 27  Testing with pytest
-Day 28  Debugging
-Day 29  Logging
-Day 30  Type hints
-Day 31  Dataclasses
-Day 32  Working with JSON
-Day 33  Regular expressions
-Day 34  HTTP basics
-Day 35  REST APIs
-Day 36  Using APIs with Python
-Day 37  Environment variables
-Day 38  Git fundamentals
-Day 39  GitHub workflow
-Day 40  Python revision
+Day 23  Hash Tables, Hash Maps, Dictionaries & Sets
+Day 24  `*args` / `**kwargs` deep dive
+Day 25  Python modules & packages
+Day 26  Virtual environments + pip
+Day 27  Project structure
+Day 28  Testing with pytest
+Day 29  Debugging
+Day 30  Logging
+Day 31  Type hints
+Day 32  Dataclasses
+Day 33  Working with JSON
+Day 34  Regular expressions
+Day 35  HTTP basics
+Day 36  REST APIs
+Day 37  Using APIs with Python
+Day 38  Environment variables
+Day 39  Git fundamentals
+Day 40  GitHub workflow
+
+
 
 ```
+### 🐍 And Then a Detailed Python Revision .
 
-Not every one needs to be an entire day if you master something faster.
 
 ---
 

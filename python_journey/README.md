@@ -46,7 +46,7 @@ Each day's folder contains:
 - Git & GitHub (Learning)
 - Visual Studio Code
 
-More technologies will be added as I continue learning.
+More technologies will be added as I continue learning.
 
 ---
 
@@ -110,3 +110,7 @@ Use a repeatable cycle for each study day:
 - **Next steps:** databases and SQL, APIs, then focused software or AI/ML learning once the foundations are solid.
 
 **Progress principle:** Understand → practise → build → test → document → commit → review. Consistency and independent problem-solving matter more than rushing through a checklist.
+
+## Latest session
+
+- [Day 26 — Python Modules & Packages](Day-26/README.md): modules, imports, packages, relative imports, package entry points, and a small tested package.

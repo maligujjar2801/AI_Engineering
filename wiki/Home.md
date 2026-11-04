@@ -2,7 +2,7 @@
 
 This is the dedicated wiki for [maligujjar2801/AI_Engineering](https://github.com/maligujjar2801/AI_Engineering).
 
-The pages live in the repository under [`wiki/`](https://github.com/maligujjar2801/AI_Engineering/tree/main/wiki), next to the code they describe. GitHub’s separate Wiki tab cannot be created from git until a first page is saved on the website, so this folder is the wiki.
+The same pages are published on the [GitHub wiki](https://github.com/maligujjar2801/AI_Engineering/wiki). This folder is the copy that lives next to the code.
 
 It was written by reading the whole repository: **229 files** across the root roadmap, `python_journey/` (Days 1–26 plus a revision folder), and six projects under `Projects/`.
 

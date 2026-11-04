@@ -2,6 +2,8 @@
 
 > My complete, hands-on journey from Python fundamentals to becoming a professional AI Engineer.
 
+**Wiki:** the full map of this repository — every day, every project, how to run the code, and what comes next — is in [`wiki/Home.md`](wiki/Home.md).
+
 ---
 
 ## 🧠 About This Repository
